@@ -23,8 +23,8 @@ model thinking- https://www.coursera.org/learn/model-thinking
 Epstein, J. M., & Axtell, R. (1996). Growing artificial societies: social science from the bottom up. Brookings Institution Press.‏
 Casti, J. L. (1994). Complexification explaining a paradoxical world through the science of surprise.‏
 Miller, J. H., & Page, S. E. (2009). Complex adaptive systems: An introduction to computational models of social life. Princeton university press.‏
-
-
+http://authors.library.caltech.edu/60491/1/MGM%20113.pdf
+Gell-Mann, M. (1994). Complex adaptive systems.‏
 ##################
 ADDITIONAL TEXTBOOK MODELS:
 
